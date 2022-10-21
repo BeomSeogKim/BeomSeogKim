@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on 항해99 부트캠프
 - 🌱 I’m currently learning Spring, JAVA
 - 📫 How to reach me: kbs4520@naver.com
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomSeogKim&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomSeogKim&show_icons=true&theme=merko)
 <!--
 **BeomSeogKim/BeomSeogKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
