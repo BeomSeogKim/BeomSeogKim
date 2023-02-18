@@ -16,6 +16,7 @@
 - MySQL
 - AWS(EC2, RDS, S3, Code Deploy)
 - Nginx
+- Jenkins
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbs4520)](https://solved.ac/kbs4520/) -->
