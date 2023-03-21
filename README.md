@@ -10,13 +10,17 @@
 - Java 11 
 - Spring Boot, Spring Security, Spring Data JPA
 - Querydsl, JPA
-- Junit5
+- Junit5, Mockito
 
 ###### DevOps
-- MySQL
-- AWS(EC2, RDS, S3, Code Deploy)
+- AWS Codedeploy
+- AWS RDS(MySQL), S3, EC2
 - Nginx
-- Jenkins
+- Jenkins, GitHub Actions
+
+##### Tools & Collaboration
+- IntelliJ, PyCharm
+- Discord, Slack
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbs4520)](https://solved.ac/kbs4520/) -->
