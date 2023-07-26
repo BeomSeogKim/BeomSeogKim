@@ -3,11 +3,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomSeogKim&show_icons=true&theme=merko)
 
-- 📫 How to reach me: kbs4520@naver.com
+- 📃이력서 : [이력서 바로가기](https://github.com/BeomSeogKim/portfolio)
+- 📫 Email: kbs4520@naver.com
 
 
 ###### Back-end
-- Java 11 
+- Java 17
 - Spring Boot, Spring Security, Spring Data JPA
 - Querydsl, JPA
 - Junit5, Mockito
