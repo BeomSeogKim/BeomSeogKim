@@ -4,24 +4,24 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomSeogKim&show_icons=true&theme=merko)
 
 - 📃이력서 : [이력서 바로가기](https://github.com/BeomSeogKim/portfolio)
-- 📫 Email: kbs4520@naver.com
+- 📫 Email: tommy0419@yonsei.ac.kr
 
 
 ###### Back-end
-- Java 17
-- Spring Boot, Spring Security, Spring Data JPA
-- Querydsl, JPA
-- Junit5, Mockito
+- Java
+- Spring Boot, Spring MVC, Spring Data JPA
+- Gradle
+- JPA, Querydsl
+- Junit5, Mockito, ArchUnit, Ngrinder, Jmeter
 
 ###### DevOps
-- AWS Codedeploy
-- AWS RDS(MySQL), S3, EC2
+- EC2, S3, RDS, CodeDeploy
 - Nginx
 - Jenkins, GitHub Actions
 
 ##### Tools & Collaboration
-- IntelliJ, PyCharm
-- Discord, Slack
+- Slack, Github Projects, Git
+- IntelliJ, Visual Studio, PyCharm
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbs4520)](https://solved.ac/kbs4520/) -->
