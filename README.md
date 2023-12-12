@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomSeogKim&show_icons=true&theme=merko)
 
-- 📃이력서 : [이력서 바로가기](https://github.com/BeomSeogKim/portfolio)
+- 📃포트폴리오 : [Portfolio](https://github.com/BeomSeogKim/portfolio)
 - 📫 Email: tommy0419@yonsei.ac.kr
 
 
